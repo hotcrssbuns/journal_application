@@ -1,11 +1,11 @@
 # Simple Command-Line Journal
 
-A very basic journaling application that allows you to write and read daily journal entries.
+A basic journaling application that allows you to write and read daily journal entries. The first program I've made with Python.
 
 ## Features
 
-- Write multiple journal entries with timestamps
-- Read all previous journal entries
+- Write journal entries
+- Read previous journal entries
 - Simple command-line interface
 - Automatic date and time stamping
 - Entries stored in a plain text file
